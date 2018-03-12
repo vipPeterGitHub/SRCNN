@@ -1,5 +1,5 @@
 # SRCNN
-an reimplementation of a SRCNN paper
+An reimplementation of a SRCNN paper
 
 Paper Link: http://mmlab.ie.cuhk.edu.hk/projects/SRCNN.html
 
