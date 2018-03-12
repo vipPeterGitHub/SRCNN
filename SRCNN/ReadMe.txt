@@ -1,0 +1,5 @@
+Matlab文件generate_h5_testdata.m生成低分辨率的图片，然后进行超分辨率还原图片。
+
+SRCNN_Author.py是采用paper作者的思路进行复原图片，是别人写的，我觉得有点麻烦[捂脸]；
+
+SRCNN_Self_Python.py是采用python的方法进行重建的，代码在自己的ubuntu上调试跑通,结果正确，具体分析见我写的PDF文档。
